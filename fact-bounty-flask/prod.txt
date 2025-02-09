@@ -1,4 +1,0 @@
--r requirements.txt
-gunicorn==19.7.1
-pymysql==0.9.3 
-certifi==2019.3.9
